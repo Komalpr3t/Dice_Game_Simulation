@@ -25,10 +25,11 @@ DiceGameSimulation/
 ├── GameEngine.java     # Core game logic, round control
 ├── Executer.java       # Entry point, handles player input and game loop
 └── README.md           # You're here!
+```
 
 ---
 
-## 🚀 How to Run the Application
+##  How to Run the Application
 
 To run this console-based Java application on your system:
 
@@ -40,3 +41,6 @@ To run this console-based Java application on your system:
 ```bash
 javac *.java
 java Executer
+```
+
+This will start the Dice Game in your terminal. Players can roll the dice round by round, and results will be displayed after each round.
